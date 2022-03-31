@@ -21,7 +21,7 @@
   "name": "esritemplate",
   "description": "webpack map app template for UGS using @arcgis/core",
   "version": "1.0.0",
-  "main": "webpack.config.js",
+  "main": "",
   "author": "",
   "license": "ISC"
 }
